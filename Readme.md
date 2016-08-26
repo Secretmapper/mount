@@ -11,6 +11,11 @@
 $ npm install koa-mount
 ```
 
+For koa 2.x, use the next tag:
+```js
+$ npm install koa-mount@next
+```
+
 ## Examples
 
   View the [./examples](examples) directory for working examples.
